@@ -1,0 +1,127 @@
+{
+    "topArtists": [
+        {
+            "name": "Devi Sri Prasad",
+            "genres": [
+                "telugu pop",
+                "tollywood",
+                "tamil dance",
+                "tamil pop",
+                "kollywood"
+            ],
+            "popularity": 76,
+            "image": "https://i.scdn.co/image/ab6761610000e5ebaa5350248841ba12e12467af"
+        },
+        {
+            "name": "Raghu Dixit",
+            "genres": [
+                "kannada pop",
+                "sandalwood",
+                "tollywood"
+            ],
+            "popularity": 61,
+            "image": "https://i.scdn.co/image/ab6761610000e5ebafa3b38e49a9606a0af03aa2"
+        },
+        {
+            "name": "Thaman S",
+            "genres": [
+                "tollywood",
+                "telugu pop",
+                "tamil dance",
+                "tamil pop",
+                "kollywood",
+                "kannada pop"
+            ],
+            "popularity": 74,
+            "image": "https://i.scdn.co/image/ab6761610000e5eb1edc6d40afbea5426d0cfe0f"
+        },
+        {
+            "name": "G. V. Prakash",
+            "genres": [
+                "tamil pop",
+                "kollywood",
+                "tamil dance",
+                "tamil hip hop",
+                "tollywood"
+            ],
+            "popularity": 79,
+            "image": "https://i.scdn.co/image/ab6761610000e5eb0a5c692089af5c0f9cf839f3"
+        },
+        {
+            "name": "Rahul Nambiar",
+            "genres": [
+                "telugu pop",
+                "tollywood",
+                "tamil dance",
+                "tamil pop",
+                "kollywood"
+            ],
+            "popularity": 62,
+            "image": "https://i.scdn.co/image/ab6761610000e5eb6e3f043605bb1e1fd082aae8"
+        }
+    ],
+    "topTracks": [
+        {
+            "name": "Nuvantene Istam",
+            "artist": "Chakri",
+            "album": "Devadasu",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e54e3e5b89c4bc7aa2ab2f52"
+        },
+        {
+            "name": "Kanulanu Thaake",
+            "artist": "Arijit Singh",
+            "album": "Beauty & The Beats of Samantha",
+            "image": "https://i.scdn.co/image/ab67616d0000b273752df54cdb73daae0a00950e"
+        },
+        {
+            "name": "Ammayi (From \"ANIMAL\") [TELUGU]",
+            "artist": "Raghav Chaitanya",
+            "album": "Ammayi (From \"ANIMAL\") [TELUGU]",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b270a0c7b06dc5a669ee03f1"
+        },
+        {
+            "name": "Dhinaku Dhin Jiya",
+            "artist": "Shankar Mahadevan",
+            "album": "Mirapakay",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ce6bc3b371385abde1fc6382"
+        },
+        {
+            "name": "Hilesso Hilessa (From \"Thandel\")",
+            "artist": "Devi Sri Prasad",
+            "album": "Hilesso Hilessa (From \"Thandel\")",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733facb0e195839f4e16fa9a10"
+        }
+    ],
+    "recentlyPlayed": [
+        {
+            "track": "Egire Egire",
+            "artist": "Clinton",
+            "playedAt": "2025-05-09T18:14:12.497Z",
+            "image": "https://i.scdn.co/image/ab67616d0000b273917a2d0efeefc3f4ebfa8b33"
+        },
+        {
+            "track": "Nuvantene Istam",
+            "artist": "Chakri",
+            "playedAt": "2025-05-09T17:11:33.231Z",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e54e3e5b89c4bc7aa2ab2f52"
+        },
+        {
+            "track": "Nenu Nenuga",
+            "artist": "S.P. Charan",
+            "playedAt": "2025-05-07T16:13:49.988Z",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f867a98722467bb5a74a4de"
+        },
+        {
+            "track": "Naa Manasuney",
+            "artist": "S. P. Balasubrahmanyam",
+            "playedAt": "2025-05-07T15:11:55.119Z",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f867a98722467bb5a74a4de"
+        },
+        {
+            "track": "Bagundhey",
+            "artist": "Vijay Prakash",
+            "playedAt": "2025-05-07T15:06:18.729Z",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d1ece3b06dac8c13986fa548"
+        }
+    ]
+}

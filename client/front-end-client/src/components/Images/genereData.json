@@ -1,0 +1,24 @@
+{
+    "genreSummary": [
+        {
+            "genre": "tollywood",
+            "count": 18
+        },
+        {
+            "genre": "telugu pop",
+            "count": 17
+        },
+        {
+            "genre": "tamil pop",
+            "count": 10
+        },
+        {
+            "genre": "tamil dance",
+            "count": 9
+        },
+        {
+            "genre": "kollywood",
+            "count": 9
+        }
+    ]
+}

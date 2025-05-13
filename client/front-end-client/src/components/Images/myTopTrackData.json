@@ -1,0 +1,252 @@
+{
+    "topTracks": [
+        {
+            "name": "Peelings (From \"Pushpa 2 The Rule\") [TELUGU]",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739c3b8606a83a49694b48a126",
+                "width": 640
+            },
+            "artist": "Shankarr Babu Kandukoori, Laxmi Dasa, Devi Sri Prasad, Chandra Bose, Siju Thuravoor",
+            "duration_ms": 247137,
+            "track_id": "6reHcXJekQ2csk0UazSBV1"
+        },
+        {
+            "name": "Srimathi Garu (From \"Lucky Baskhar\")(Telugu)",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e719267835e27042f386738a",
+                "width": 640
+            },
+            "artist": "G. V. Prakash, Vishal Mishra, Shweta Mohan, Shree Mani",
+            "duration_ms": 222537,
+            "track_id": "5TPk8DtFRiSo8ZJwThyFbU"
+        },
+        {
+            "name": "Ragada Ragada",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732e6269739afe023e194bd8c6",
+                "width": 640
+            },
+            "artist": "Baba Sehgal, K. S. Chithra, Rita Thyagarajan",
+            "duration_ms": 283608,
+            "track_id": "7BcEChqpb2uH1H6uK8Yf1S"
+        },
+        {
+            "name": "Dhinaku Dhin Jiya",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ce6bc3b371385abde1fc6382",
+                "width": 640
+            },
+            "artist": "Shankar Mahadevan, Shreya Ghoshal",
+            "duration_ms": 284782,
+            "track_id": "0iTb5OOu7VEgccuNYfuiOT"
+        },
+        {
+            "name": "Chary (Where Is The Panchakattu)",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27306876aaa55e804cd89f478c5",
+                "width": 640
+            },
+            "artist": "Jr. NTR, Rita Thyagarajan",
+            "duration_ms": 288400,
+            "track_id": "3G9gtHhJbrqOVVGrH60nZT"
+        },
+        {
+            "name": "Ammayi (From \"ANIMAL\") [TELUGU]",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b270a0c7b06dc5a669ee03f1",
+                "width": 640
+            },
+            "artist": "Raghav Chaitanya, Anantha Sreeram, Pritam",
+            "duration_ms": 275439,
+            "track_id": "7ldhGFQH1K7oG2q8fX4Eck"
+        },
+        {
+            "name": "Don't Stop (From “Nannaku Prematho”)",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2735bf9f98327aaf9b5ddda8eea",
+                "width": 640
+            },
+            "artist": "Raghu Dixit",
+            "duration_ms": 233633,
+            "track_id": "1IEmvCgOzq2xM91YSrPNUC"
+        },
+        {
+            "name": "Jaago",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734c20465a43cbfb81331b2228",
+                "width": 640
+            },
+            "artist": "Raghu Dixit, Rita Thyagarajan",
+            "duration_ms": 251456,
+            "track_id": "0U1zid4m2BOqeQXjsQ5XVa"
+        },
+        {
+            "name": "Chal Chalo Chalo",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27371cc7c112a85908f0192aa70",
+                "width": 640
+            },
+            "artist": "Raghu Dixit, Sooraj Santhosh, Rita Thyagarajan",
+            "duration_ms": 308601,
+            "track_id": "0BFQi3erN3X4tT6ZrthC5d"
+        },
+        {
+            "name": "Kissik (From \"Pushpa 2 The Rule\") [TELUGU]",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f9e02b6c00650fd4f43c1db5",
+                "width": 640
+            },
+            "artist": "Sublahshini, Devi Sri Prasad, Chandra Bose",
+            "duration_ms": 248013,
+            "track_id": "46ofwvDbks8GpQoLxGVD0o"
+        },
+        {
+            "name": "Karige Loga",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738335d4c9f1240433714f0a33",
+                "width": 640
+            },
+            "artist": "Devi Sri Prasad, Kunal Ganjawala, Megha",
+            "duration_ms": 363653,
+            "track_id": "37I2SLeJcpkQpKFMLJt550"
+        },
+        {
+            "name": "Violin Song",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a20aa340e07cef068abdf127",
+                "width": 640
+            },
+            "artist": "David Simon, Anitha Karthikeyan",
+            "duration_ms": 263729,
+            "track_id": "1C2gJaINSao4GEXySYopiS"
+        },
+        {
+            "name": "Nuvantene Istam",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e54e3e5b89c4bc7aa2ab2f52",
+                "width": 640
+            },
+            "artist": "Chakri",
+            "duration_ms": 352826,
+            "track_id": "4V4OoKtujnjRQkq9GN5bYl"
+        },
+        {
+            "name": "Monna Kanipinchavu",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273cd3ced79bda3d8679bad225d",
+                "width": 640
+            },
+            "artist": "Harris Jayaraj, Naresh Iyer, Prashanthini",
+            "duration_ms": 332013,
+            "track_id": "4rc1WGmRJ2CsHXTmrBu3gH"
+        },
+        {
+            "name": "Seethakaalam",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27371cc7c112a85908f0192aa70",
+                "width": 640
+            },
+            "artist": "Yazin Nizar",
+            "duration_ms": 262488,
+            "track_id": "2C72bOiY3kbCgDBBznoejk"
+        },
+        {
+            "name": "Hilesso Hilessa (From \"Thandel\")",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2733facb0e195839f4e16fa9a10",
+                "width": 640
+            },
+            "artist": "Devi Sri Prasad, Nakash Aziz, Shreya Ghoshal, Shree Mani",
+            "duration_ms": 209482,
+            "track_id": "66nCmAQwd4RaLVqDxr23FZ"
+        },
+        {
+            "name": "Choolenge Aasma",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27374a948a8c2affb02b25e9b71",
+                "width": 640
+            },
+            "artist": "Adnan Sami, Ramya Behara, Veena Ghantasala",
+            "duration_ms": 250971,
+            "track_id": "3RyfIFxOrHLJV3reR37Xwr"
+        },
+        {
+            "name": "Amma Song",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e828d0a7cbecd7ac239c066b",
+                "width": 640
+            },
+            "artist": "Thaman S, Vishal Mishra, Saraswati Putra Ramajogayya Sastry",
+            "duration_ms": 242620,
+            "track_id": "4CbM4S7EIf2BbbVn9p9z87"
+        },
+        {
+            "name": "Diwali Deepaanni",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737a4685c4b1077b26c527789f",
+                "width": 640
+            },
+            "artist": "Andrea, Kalyan",
+            "duration_ms": 233891,
+            "track_id": "5E68CmEBJp76VtnhpHndjK"
+        },
+        {
+            "name": "O Madhu",
+            "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273477f77a3caf1f6a1d354e382",
+                "width": 640
+            },
+            "artist": "Adnan Sami",
+            "duration_ms": 243168,
+            "track_id": "1VDDoa82Oktn7FDPKBcsw8"
+        }
+    ],
+    "topArtists": [
+        "Devi Sri Prasad",
+        "Raghu Dixit",
+        "Thaman S",
+        "G. V. Prakash",
+        "Rahul Nambiar",
+        "Karthik",
+        "Adnan Sami",
+        "Sagar",
+        "Shreya Ghoshal",
+        "Yazin Nizar",
+        "Jaspreet Jasz",
+        "Anurag Kulkarni",
+        "Anirudh Ravichander",
+        "Armaan Malik",
+        "Baba Sehgal",
+        "Mickey J. Meyer",
+        "Harris Jayaraj",
+        "Chakri",
+        "Ranjith Govind",
+        "Vijay Prakash"
+    ],
+    "mostCommonGenres": [
+        "tollywood",
+        "telugu pop",
+        "tamil pop"
+    ],
+    "avgSongDurationMin": "4.50"
+}
