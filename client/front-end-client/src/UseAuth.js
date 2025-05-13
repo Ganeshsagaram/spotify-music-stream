@@ -1,11 +1,12 @@
 import { useState, useEffect } from "react"
 import axios from "axios";
+import { useNavigate } from "react-router";
 
 export default function useAuth(code) {
   const [accessToken, setAccessToken] = useState()
   const [refreshToken, setRefreshToken] = useState()
   const [expiresIn, setExpiresIn] = useState()
-
+  const navigate=useNavigate();
   useEffect(() => {
     axios
       .post("http://localhost:6996/login", {
@@ -13,12 +14,14 @@ export default function useAuth(code) {
       })
       .then(res => {
         setAccessToken(res.data.accessToken)
-        setRefreshToken(res.data.refreshToken)
+        setRefreshToken(res.data.refreshToken);
+        localStorage.setItem("accessToken",res.data.accessToken);
         setExpiresIn(res.data.expiresIn)
-        window.history.pushState({}, null, "/")
+        window.history.pushState({}, null, "/");
+        navigate("/home")
       })
       .catch(() => {
-        window.location = "/"
+        navigate("/login");
       })
   }, [code])
 
@@ -32,9 +35,11 @@ export default function useAuth(code) {
         .then(res => {
           setAccessToken(res.data.accessToken)
           setExpiresIn(res.data.expiresIn)
+          localStorage.setItem("accessToken",res.data.accessToken);
+          navigate("/home")
         })
         .catch(() => {
-          window.location = "/"
+          navigate("/login");
         })
     }, (expiresIn - 60) * 1000)
 

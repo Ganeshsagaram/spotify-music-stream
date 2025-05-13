@@ -7,11 +7,11 @@ import SpotifyWebApi from "spotify-web-api-node"
 import axios from "axios"
 
 const spotifyApi = new SpotifyWebApi({
-  clientId:process.env.REACT_APP_CLIENT_ID,
+  clientId: process.env.REACT_APP_CLIENT_ID,
 })
 
-export default function Dashboard({ code }) {
-  const accessToken = useAuth(code)
+export default function Dashboard() {
+  const accessToken = localStorage.getItem("accessToken");
   const [search, setSearch] = useState("")
   const [searchResults, setSearchResults] = useState([])
   const [playingTrack, setPlayingTrack] = useState()
