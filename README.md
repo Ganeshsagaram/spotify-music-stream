@@ -1,0 +1,114 @@
+How to Setup:
+
+---
+
+## 🚀 Getting Started with Spotify Insights App
+
+Follow the steps below to set up and run the project locally:
+
+---
+
+### ✅ Prerequisites
+
+Make sure the following are installed on your system:
+
+* [Node.js](https://nodejs.org/)
+* [npm](https://www.npmjs.com/)
+* [nodemon](https://www.npmjs.com/package/nodemon)
+
+---
+
+### 📦 Project Setup
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone <repository_url>
+   cd <repository_folder>
+   ```
+
+2. **Install dependencies** for both frontend and backend:
+
+   **Frontend:**
+
+   ```bash
+   cd client/front-end-client
+   npm install
+   ```
+
+   **Backend (in a separate terminal):**
+
+   ```bash
+   cd ../../spotify-backend-service
+   npm install
+   ```
+
+---
+
+### 🔐 Spotify API Credentials
+
+3. **Get Spotify Developer credentials:**
+
+   * Visit the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/)
+   * Create a new app and retrieve your **Client ID** and **Client Secret**
+
+4. **Configure environment variables:**
+
+   **Frontend – Create a `.env` file inside `client/front-end-client`:**
+
+   ```
+   REACT_APP_CLIENT_ID=your_spotify_client_id
+   ```
+
+   **Backend – Create a `.env` file inside `spotify-backend-service`:**
+
+   ```
+   CLIENT_ID=your_spotify_client_id
+   CLIENT_SECRET=your_spotify_client_secret
+   REDIRECT_URI=http://localhost:3000
+   ```
+
+---
+
+### ⚙️ Backend Start Script
+
+5. Confirm your backend's `package.json` has the following start script:
+
+   ```json
+   "scripts": {
+     "start": "nodemon index.js"
+   }
+   ```
+
+   You can adjust the filename (`index.js`) if your entry point is different.
+
+---
+
+### 🖥️ Running the Application
+
+6. Run both the frontend and backend in separate terminals:
+
+   **Backend:**
+
+   ```bash
+   cd spotify-backend-service
+   npm start
+   ```
+
+   **Frontend:**
+
+   ```bash
+   cd client/front-end-client
+   npm start
+   ```
+
+   * Frontend runs on: `http://localhost:3000`
+   * Backend runs on: `http://localhost:6996` (or your configured port)
+
+---
+
+### 🎧 You're Ready!
+
+7. Open your browser and navigate to `http://localhost:3000` to start using the app and explore Spotify insights.
+
+---
