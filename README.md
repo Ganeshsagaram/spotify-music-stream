@@ -39,7 +39,7 @@ Make sure the following are installed on your system:
    **Backend (in a separate terminal):**
 
    ```bash
-   cd ../../spotify-backend-service
+   cd dir/spotify-backend-service
    npm install
    ```
 
